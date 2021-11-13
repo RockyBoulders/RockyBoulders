@@ -1,5 +1,5 @@
 （。＾▽＾）I’m @RockyBoulders
-Twitter @RockysBoulders
+- Twitter @RockysBoulders
 
 <!---
 RockyBoulders/RockyBoulders is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
